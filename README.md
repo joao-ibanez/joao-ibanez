@@ -5,7 +5,7 @@ Em Estudo📖:
   <img align="center" alt="" height="30" widht="40" scr=""
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanSudario&https://github.com/anuraghazra/github-readme-stats&theme=gruvbox&icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanSudario&https://github.com/anuraghazra/github-readme-stats&icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-ibanez&https://github.com/anuraghazra/github-readme-stats&icons=true&theme=gruvbox)
 
 </div>
 
