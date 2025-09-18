@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
 Em Estudo📖:
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="<img width="151" height="194" alt="image" src="https://github.com/user-attachments/assets/35f7eb89-17a2-438c-8c02-ec3bd290608d" />
+  
 " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
